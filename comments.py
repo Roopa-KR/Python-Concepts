@@ -11,7 +11,7 @@
 #This is a comment
 print("Hello, World!")
 # You can also make a comment out of a whole line or a part of a line:
-print("Hello, World!") # This is a comment
+
 # Comments are for humans to read, and they are ignored by the Python interpreter. They are a great way to explain what your code does, or to leave notes for yourself or other programmers who may read your code in the future.
 # You can also use comments to temporarily disable code:
 # print("This line will not be executed.")
@@ -25,4 +25,5 @@ This is a multi-line comment.
 It can span multiple lines.
 '''
 # In the example above, the text between the triple quotes is a multi-line comment. It can be used to provide more detailed explanations or to comment out larger sections of code.
+
 
