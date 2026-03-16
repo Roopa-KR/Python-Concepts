@@ -36,3 +36,9 @@ print(difference_set)  # Output: {1, 2}
 # symmetric difference of sets
 symmetric_difference_set = set_a.symmetric_difference(set_b)
 print(symmetric_difference_set)  # Output: {1, 2, 4, 5}
+#Printing the length of the set
+print(len(my_set))  # Output: 5
+#Printing the set using a for loop
+for item in my_set:
+    print(item)  # Output: 1 2 3 5 6 (order may vary)
+    
