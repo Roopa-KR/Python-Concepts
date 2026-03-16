@@ -41,4 +41,8 @@ print(len(my_set))  # Output: 5
 #Printing the set using a for loop
 for item in my_set:
     print(item)  # Output: 1 2 3 5 6 (order may vary)
-    
+#Order may vary because sets are unordered collections
+#Clearing the set
+my_set.clear()
+print(my_set)  # Output: set()
+
